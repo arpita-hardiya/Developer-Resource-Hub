@@ -2,8 +2,8 @@
 
 A free resource hub for programmers. It collects useful GitHub repositories, videos and playlists across six developer topics in one place, with live search and the option to add your own repositories.
 
-Live demo: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
-Repository: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+- Live demo: https://arpita-hardiya.github.io/Developer-Resource-Hub/
+- Repository: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
 
 ## Features
 
