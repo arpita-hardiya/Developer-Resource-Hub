@@ -44,15 +44,15 @@ GDG on Campus AITR Website
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## Majorly I found these issues, each is mentioned with respect to either laptop or mobile phone or both.
 
- -> No broken links and major visual glitches.
- -> No critical bugs found.
+ - No broken links and major visual glitches.
+ - No critical bugs found.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## Suggestions to Improve the Website
 
--> More Details can be added about each Chapter Lead.
--> Website should include more contact feartures such as contact detail or email address 
+- More Details can be added about each Chapter Lead.
+- Website should include more contact feartures such as contact detail or email address 
    of Senior Advisor or Sub Advisors. 
--> Issues mentioned above must be fixed.
+- Issues mentioned above must be fixed.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## Conclusion 
 
