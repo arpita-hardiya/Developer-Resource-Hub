@@ -38,16 +38,16 @@ No installation is needed. Keep all files in the same folder so the pages and sc
 ## Project Structure
 
 
-├── index.html      Main page (topic cards, search, add repository)
-├── styleDev.css    Styles for the main page
-├── script.js       Main page logic (search across all repos, add repo)
-├── subpage.js      Shared logic for the six topic pages
-├── frontend.html   Frontend Development
-├── backend.html    Backend Development
-├── devops.html     DevOps
-├── api.html        API Documentation
-├── cloud.html      Cloud Computing and Architecture
-└── iot.html        IoT and Hardware
+- index.html      Main page (topic cards, search, add repository)
+- styleDev.css    Styles for the main page
+- script.js       Main page logic (search across all repos, add repo)
+- subpage.js      Shared logic for the six topic pages
+- frontend.html   Frontend Development
+- backend.html    Backend Development
+- devops.html     DevOps
+- api.html        API Documentation
+- cloud.html      Cloud Computing and Architecture
+- iot.html        IoT and Hardware
 
 
 ## How It Works
