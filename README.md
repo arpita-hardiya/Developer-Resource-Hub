@@ -27,11 +27,11 @@ No frameworks, libraries or build tools are used.
 ## Setup
 
 1. Download this repository as a ZIP and extract it, or clone it:
-   ```
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   ```
+
+   https://github.com/arpita-hardiya/Developer-Resource-Hub.git
+
 2. Open the project folder.
-3. Double-click `index.html` to open it in your browser.
+3. Double-click main.html to open it in your browser.
 
 No installation is needed. Keep all files in the same folder so the pages and scripts can find each other. An internet connection is needed for the icons, images and external links.
 
